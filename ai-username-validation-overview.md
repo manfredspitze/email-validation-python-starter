@@ -55,7 +55,7 @@ Invalid username!
 
 ---
 
-### Script Template for Students:
+### Script Hints:
 
 ```python
 # Function takes just one parameter -- `username`
